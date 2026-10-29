@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global voluntary carbon offset management and carbon credit market is estimated at **$2.6 billion to $5.3 billion in 2025–2026**, on track to expand beyond **$10 billion by 2030** with an expected compound annual growth rate (CAGR) of 20%–30%. The sector remains **highly fragmented** rather than concentrated or winner-take-all, characterized by a decentralized ecosystem of independent crediting registries (Verra, Gold Standard, ACR), project developers across nature-based and tech removal verticals, and niche corporate brokerage and API infrastructure providers without a single dominant platform.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Shopify Planet](https://www.shopify.com/)**
-
-  **Carbon removal app for Shopify merchants** enabling carbon-neutral shipping and customer-facing climate action. Merchants pay $0.035–$0.15 per order or let customers contribute $0.25 at checkout; funds purchase carbon removal credits from Shopify-verified providers including Grassroots Carbon, Running Tide, Remora, Heirloom, Planetary, and Charm . **Pricing**: Included with Shopify; per-order or customer-paid models. **Free tier**: None beyond Shopify subscription. **Best for**: Shopify merchants wanting to fund durable carbon removal without managing credit procurement independently.
-
-
-
-- **[Pachama](https://pachama.com/)** (Carbon Direct)
-
-  **Forest carbon project monitoring, reporting, and verification (MRV)** platform using satellite data and AI. Acquired by Carbon Direct in 2025; technology now integrated into Carbon Direct's carbon management suite . **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting data-driven verification of nature-based carbon projects before purchasing credits.
-
-
-
-- **[Patch](https://patch.io/)**
-
-  **Carbon credit marketplace and API** with the broadest selection of vetted credits, accessible via direct purchase, multi-year offtake, or digital transactions. The Patch API enables order-based emissions estimates, user-driven project selection, and fractional contributions within any application . **Pricing**: Usage-based API; credit prices vary by project and volume. **Free tier**: None. **Best for**: developers and platforms wanting to embed carbon credit purchasing directly into user journeys.
-
-
-
-- **[Wren](https://www.wren.co/)**
-
-  **Consumer-facing climate subscription** for calculating and offsetting personal carbon footprints monthly. Funds projects including Amazon rainforest protection and basalt rock carbon storage. Publicly shares transaction ledgers and receipts for transparency . **Pricing**: Monthly subscription; varies by footprint. **Free tier**: First month free for new members. **Best for**: individuals wanting a transparent, subscription-based offsetting service—not enterprise procurement.
-
-
-
-- **[Climeworks](https://climeworks.com/)**
-
-  **Direct air capture (DAC) carbon removal** provider with enterprise carbon removal portfolios. Partnered with SAP to secure 37,000 tons of removal credits through 2034 across DAC, biochar, and enhanced rock weathering . **Pricing**: Quote-only; premium pricing for durable removal. **Free tier**: None. **Best for**: enterprises seeking high-durability, engineered carbon removal for residual emissions.
-
-
-
-- **[South Pole](https://www.southpole.com/)**
-
-  **Climate consulting and carbon credit procurement** with 500+ experts across 20+ countries. Offers project development, CORSIA-compliant units, and advisory across CSRD, SBTi, and Scope 3 . **Pricing**: Quote-only; advisory and credit fees vary. **Free tier**: None. **Best for**: enterprises needing end-to-end climate strategy including credit sourcing and compliance advisory.
-
-
-
-- **[CarbonClick](https://www.carbonclick.com/)**
-
-  **Business carbon offsetting platform** with purchasable and traceable credits. **Free** plan for browsing projects; **Starter** at $99/license/month; **Advanced** at $399/month adds emissions calculation, toolkit, and eCommerce plugins; **Enterprise** custom with unlimited programmes and API access . **Free tier**: Yes, for project browsing only; no credit purchases. **Best for**: SMBs and eCommerce businesses wanting structured offsetting with impact reporting and plug-ins.
-
-
-
-- **[Ecologi](https://ecologi.com/)**
-
-  **Climate action subscription** funding tree planting and certified carbon avoidance projects. Personal plans from £4.70/month (2 trees + 2.64t CO₂ avoided annually) to £18.80/month. Publishes carbon credit certificates and tree-planting records via a Public Impact Ledger . **Pricing**: Tiered subscriptions; business plans available. **Free tier**: None. **Best for**: individuals and small businesses wanting simple, transparent climate contributions—**not enterprise offset procurement**.
-
-
-
-- **[Cloverly](https://cloverly.com/)**
-
-  **Carbon credit API** for calculating emissions and purchasing offsets programmatically. Microsoft Lists connector supports transaction-based estimates and offset purchases with project details, registry links, and receipt URLs returned in responses . **Pricing**: Usage-based API; credit costs pass-through. **Free tier**: None. **Best for**: developers wanting to embed carbon offsetting into applications via API.
-
-
-
-- **[Tradewater](https://tradewater.co/)**
-
-  **Carbon offset credits from refrigerant and methane destruction** projects. B Corp focused on non-CO₂ super pollutants; projects verified under ICVCM Core Carbon Principles. Credits fund collection and destruction of halocarbons and orphaned oil/gas well methane . **Pricing**: Quote-only. **Free tier**: None. **Best for**: buyers prioritizing high-integrity avoidance credits with immediate climate impact.
-
-
+| Platform | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Shopify Planet](https://www.shopify.com/)** | **Valuation: ~$215B Market Cap** (Public: NYSE: SHOP; 2025 Revenue: $11.56B) | App is free to install; offset fees start at $0.035–$0.15/order (or optional customer opt-in contribution starting at $0.25–$0.50/checkout); requires underlying Shopify subscription starting at $39/mo (Basic tier). | **3-day free trial** of Shopify store platform (full store setup allowed; live customer checkout and order processing paused until paid activation). Free app install with no standalone monthly maintenance fee. | Carbon removal app for Shopify merchants funding verified durable removal providers (Heirloom, Charm, Remora). Best for Shopify stores wanting automated shipping carbon neutralization. |
+| **[Climeworks](https://climeworks.com/)** | **Valuation: >$1B Unicorn** (Over $1B total funding raised; backed by Partners Group, GIC, Swiss Re) | Subscriptions start at $100/ton for blended nature/tech removal (scaling to $250/ton for balanced and $500/ton for pure 100% Direct Air Capture removal); enterprise offtake agreements priced custom. | **No free tier or trial** (every dollar funds active physical direct air capture plant operations and permanent geological mineralization). | Pioneering Direct Air Capture (DAC) and mineralization operator. Best for enterprises and individuals seeking high-durability, permanent engineered carbon removal. |
+| **[South Pole](https://www.southpole.com/)** | **Size: €200M–$330M Peak Revenue** (~$1B private valuation tracking pre-market correction; 500+ employees globally) | Enterprise advisory & credit procurement retainers starting at custom project quotes (credit spot purchases typically benchmark from $10–$50+/ton depending on project vintage/standard). | **No free tier or trial** (bespoke institutional climate advisory, compliance auditing, and carbon asset development). Free access to market reports and webinars only. | Global climate solutions developer and consultancy. Best for multinational enterprises requiring end-to-end carbon accounting, CSRD/SBTi compliance, and credit procurement portfolios. |
+| **[Pachama](https://pachama.com/)** | **Valuation: ~$300M peak valuation** ($88M+ total VC funding raised; acquired by Carbon Direct in 2025) | Enterprise SaaS & carbon credit contracts starting from custom quote (vetted nature-based ARR removal credits benchmark at $15–$40+/ton). | **No free tier or self-serve trial** (enterprise evaluation via scheduled sales demo only; no free credit allocations). | Satellite data and AI-driven forest carbon project MRV (monitoring, reporting, verification). Best for enterprises requiring rigorous scientific verification before buying nature-based credits. |
+| **[Patch](https://patch.io/)** | **Funding: ~$98M raised** (Series B led by Energize Ventures, Coatue, a16z; valuation undisclosed private) | API & CarbonOS platform access starting with custom volume spreads / transaction markups above wholesale spot credit prices; developer sandbox access is complimentary. | **Free developer sandbox forever** (unlimited API requests and synthetic order simulations in testmode with test bearer tokens; no live carbon retirements). | API-first carbon credit infrastructure and marketplace connecting platforms to vetted avoidance and removal projects. Best for developers embedding climate action at checkout. |
+| **[Cloverly](https://cloverly.com/)** | **Valuation: ~$100M–$250M** ($21.1M total funding raised, including $19M Series A) | Custom usage-based production pricing based on per-kg CO₂e offset retirement plus transaction fees; dynamic pricing by credit registry vintage. | **Free Developer Sandbox ($0/mo forever)** providing developer API keys for test queries, footprint estimations, and transaction simulation without live credit retirement charges. | API and software connectors (e.g., Microsoft Lists) for transaction-based emissions calculations and automated offset purchasing. Best for developers building programmatic offset integrations. |
+| **[Ecologi](https://ecologi.com/)** | **Valuation: ~£40M** (~£12M annual revenue run-rate; raised venture backing + Crowdcube crowdfunding) | Individual plans from £4.70/month; eCommerce API has £0/mo platform fee (pay-per-impact); Ecologi Zero corporate carbon accounting starts at £3,499 + VAT/year. | **Free business account forever** (pay-as-you-go manual funding with no monthly minimum); API includes **free unlimited sandbox testing** (`test: true` flag); no free trial on corporate accounting tier. | B Corp climate action platform supporting tree planting and certified carbon avoidance projects. Best for SMBs, eCommerce brands, and individuals wanting transparent climate contributions. |
+| **[Tradewater](https://tradewater.co/)** | **Revenue: ~$13M–$15M annual revenue** (Bootstrapped/grant-funded impact B Corp; no outside VC valuation) | Retail and institutional offset credits priced starting around $15–$20 per metric ton of CO₂e destroyed (covering collection, lab verification, and thermal oxidation of halocarbons/methane). | **No free tier or trial** (physical destruction and verification costs apply immediately to all unit retirements). Project verification documents and impact audits publicly viewable at zero cost. | Certified B Corp destroying high-GWP refrigerant gases (CFCs/HCFCs) and plugging leaking methane wells under ICVCM and ACR standards. Best for buyers seeking immediate non-CO₂ greenhouse gas destruction. |
+| **[CarbonClick](https://www.carbonclick.com/)** | **Funding: ~$1.6M raised** (Seed round backed by Investible and Velocity Ventures; privately held) | Free plan available; Starter plan starts at $99/license/month; Advanced plan at $399/month (adds full emissions calculator and eCommerce plugins); Enterprise custom quote. | **Free Forever Plan** (allows unlimited browsing and tracking of climate projects; no active credit purchasing); **14-day free trial** available on the Advanced tier. | E-commerce checkout plugins and carbon offset tracking platform for businesses. Best for SMBs, retail e-commerce stores, and travel operators wanting certified carbon offsetting. |
+| **[Wren](https://www.wren.co/)** | **Funding: ~$8.25M raised** (Y Combinator, Union Square Ventures, Paul Graham; privately held) | Monthly subscription customized dynamically by carbon footprint calculator (starts at ~$15–$20/month for average personal footprint neutralization); business plans use custom monthly portfolios. | **1-month free trial** for new personal subscription members (initial month funded promotionally up to baseline footprint caps; cancel anytime). Free interactive carbon calculator. | Consumer and small-team carbon footprint calculator and monthly offsetting subscription. Best for individuals and small teams seeking transparent monthly personal impact ledgers. |
 
 ## Open-Source GitHub Projects
 
