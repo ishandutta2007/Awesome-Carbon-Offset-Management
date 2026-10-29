@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Carbon-Offset-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Carbon-Offset-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Carbon-Offset-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,7 +58,7 @@ The global voluntary carbon offset management and carbon credit market is estima
 
 ## 🛠️ Open-Source Carbon Infrastructure & Toolkits
 
-*Open-source GitHub repositories sorted in descending order by community star counts.*
+*Open-source GitHub repositories sorted in descending order by community Stars_Counts.*
 
 1. ### ⚡ [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) [![Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=social&color=white)](https://github.com/hubblo-org/scaphandre/stargazers)
    - **Focus**: Energy consumption and hardware power metrology agent.
@@ -158,7 +158,7 @@ Contributions are warmly welcome! If you know of an awesome SaaS platform, open-
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-carbon-platform`).
-3. 📝 **Add your entry** following the existing format (include name, URL, accurate pricing/tier details or star badges, and a crisp description).
+3. 📝 **Add your entry** following the existing format (include name, URL, accurate pricing/tier details or Stars_Badges, and a crisp description).
 4. 🚀 **Commit and push** your changes.
 5. 📬 **Submit a Pull Request** with a brief summary of the project.
 
