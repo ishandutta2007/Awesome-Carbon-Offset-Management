@@ -1,48 +1,45 @@
-# Awesome-Carbon-Offset-Management
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Carbon Offset Management Banner" width="100%" />
+</p>
 
-# Awesome-Carbon-Offset-Management
+# 🌍 Awesome Carbon Offset Management [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awssome-Awesome-Awesome)
 
-**Top Carbon Offset Management (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Carbon-Offset-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Carbon-Offset-Management?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Carbon-Offset-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
+> 🌟 **A curated list of high-integrity Carbon Offset Management platforms, carbon credit procurement APIs, digital MRV (Measurement, Reporting, and Verification) engines, and open-source climate infrastructure.**
+>
+> 🚀 *Whether you are designing corporate net-zero strategies, integrating checkout offset APIs, or building sovereign carbon registries under Article 6 of the Paris Agreement, this repository indexes the best-in-class software and developer toolkits.*
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+---
 
-*Focused on Carbon Credit Procurement, Project MRV, Offset Portfolios & Climate Action Platforms*
+## 📑 Table of Contents
 
-**Last updated: October 2026**
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Commercial & SaaS Offset Platforms](#-commercial--saas-offset-platforms)
+- [🛠️ Open-Source Carbon Infrastructure & Toolkits](#️-open-source-carbon-infrastructure--toolkits)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📜 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Carbon Offset Management**. These tools enable organizations to purchase carbon credits, manage offset portfolios, verify project integrity, and integrate climate action into their operations—from fully managed offset providers with vetted project networks to self-hosted registries and estimation tools that give organizations control over carbon accounting and credit issuance.
-
-
-
-**Examples** include Shopify Planet, Pachama, Patch, Wren, Climeworks, South Pole, CarbonClick, Ecologi, Cloverly, and Tradewater (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, carbon credit registries, and open climate infrastructure. **Critical note**: True open-source carbon offset management—a turnkey platform for purchasing and retiring verified credits—is extremely sparse. Most projects address **registry infrastructure**, **estimation tools**, or **carbon accounting**, not the full offset procurement workflow that Patch or CarbonClick provide.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global voluntary carbon offset management and carbon credit market is estimated at **$2.6 billion to $5.3 billion in 2025–2026**, on track to expand beyond **$10 billion by 2030** with an expected compound annual growth rate (CAGR) of 20%–30%. The sector remains **highly fragmented** rather than concentrated or winner-take-all, characterized by a decentralized ecosystem of independent crediting registries (Verra, Gold Standard, ACR), project developers across nature-based and tech removal verticals, and niche corporate brokerage and API infrastructure providers without a single dominant platform.
 
-## SaaS/Hosted Platforms
+---
+
+## 💼 Commercial & SaaS Offset Platforms
 
 | Platform | Company Size (Valuation / Revenue) | Pricing | Free Tier / Trial Limits | Description & Best For |
 | :--- | :--- | :--- | :--- | :--- |
@@ -57,100 +54,141 @@ The global voluntary carbon offset management and carbon credit market is estima
 | **[CarbonClick](https://www.carbonclick.com/)** | **Funding: ~$1.6M raised** (Seed round backed by Investible and Velocity Ventures; privately held) | Free plan available; Starter plan starts at $99/license/month; Advanced plan at $399/month (adds full emissions calculator and eCommerce plugins); Enterprise custom quote. | **Free Forever Plan** (allows unlimited browsing and tracking of climate projects; no active credit purchasing); **14-day free trial** available on the Advanced tier. | E-commerce checkout plugins and carbon offset tracking platform for businesses. Best for SMBs, retail e-commerce stores, and travel operators wanting certified carbon offsetting. |
 | **[Wren](https://www.wren.co/)** | **Funding: ~$8.25M raised** (Y Combinator, Union Square Ventures, Paul Graham; privately held) | Monthly subscription customized dynamically by carbon footprint calculator (starts at ~$15–$20/month for average personal footprint neutralization); business plans use custom monthly portfolios. | **1-month free trial** for new personal subscription members (initial month funded promotionally up to baseline footprint caps; cancel anytime). Free interactive carbon calculator. | Consumer and small-team carbon footprint calculator and monthly offsetting subscription. Best for individuals and small teams seeking transparent monthly personal impact ledgers. |
 
-## Open-Source GitHub Projects
+---
 
+## 🛠️ Open-Source Carbon Infrastructure & Toolkits
 
+*Open-source GitHub repositories sorted in descending order by community star counts.*
 
-- **[National Carbon Credit Registry](https://github.com/undp/national-carbon-credit-registry)**
+1. ### ⚡ [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) [![Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=social&color=white)](https://github.com/hubblo-org/scaphandre/stargazers)
+   - **Focus**: Energy consumption and hardware power metrology agent.
+   - **Features**: Deep Linux kernel energy measurement agent reading RAPL (Running Average Power Limit) metrics. Emits metrics to Prometheus, Warp10, or Riemann to give engineering teams accurate power and carbon consumption baselines before planning software offset schemes.
+   - **Tech Stack**: Rust • **License**: Apache-2.0
+   - **Best For**: Data centers and DevOps engineers measuring baseline compute power consumption.
 
-  **Open-source toolkit for national carbon credit registries** (AGPL-3.0) — **the most significant open-source project for carbon credit infrastructure**, backed by the United Nations Development Programme. **Features**: Issue, monitor, and trade carbon credits with data integrity; API, web, and data portal components; designed for government deployment. Deployed or deploying in **Namibia, Ghana, Côte d'Ivoire, Costa Rica, and Sri Lanka**; integrating with World Bank software . **Tech stack**: Per UNDP DPG submission. **Deploy**: Self-hosted government infrastructure. **Trade-off**: **National registry infrastructure, not a corporate offset procurement platform**—it is for sovereign carbon credit accounting under Article 6 and national climate commitments, not for businesses buying offsets. **Best for**: governments and public sector entities implementing national carbon credit systems.
+2. ### 💻 [mlco2/codecarbon](https://github.com/mlco2/codecarbon) [![Stars](https://img.shields.io/github/stars/mlco2/codecarbon?style=social&color=white)](https://github.com/mlco2/codecarbon/stargazers)
+   - **Focus**: Machine learning and compute emissions tracker.
+   - **Features**: Lightweight package that estimates the net amount of carbon dioxide ($CO_2$) produced by cloud or local computing resources while executing Python code. Integrates regional grid carbon intensities to calculate the exact offset credits needed to neutralize compute tasks.
+   - **Tech Stack**: Python • **License**: MIT
+   - **Best For**: AI/ML engineers and researchers quantifying workload carbon footprints for corporate reporting and offset purchases.
 
+3. ### ☁️ [cloud-carbon-footprint/cloud-carbon-footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) [![Stars](https://img.shields.io/github/stars/cloud-carbon-footprint/cloud-carbon-footprint?style=social&color=white)](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint/stargazers)
+   - **Focus**: Multi-cloud energy usage and carbon emissions estimation.
+   - **Features**: Connects with AWS, Google Cloud, and Microsoft Azure billing APIs to convert raw cloud usage into estimated energy (kWh) and greenhouse gas emissions (metric tons $CO_2e$). Provides emissions breakdown charts and actionable recommendations to reduce emissions before purchasing offsets.
+   - **Tech Stack**: TypeScript, React, Node.js • **License**: Apache-2.0
+   - **Best For**: Cloud architects and enterprise FinOps teams seeking centralized cloud carbon metrics.
 
+4. ### 🌐 [Green-Software-Foundation/carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk) [![Stars](https://img.shields.io/github/stars/Green-Software-Foundation/carbon-aware-sdk?style=social&color=white)](https://github.com/Green-Software-Foundation/carbon-aware-sdk/stargazers)
+   - **Focus**: Carbon-aware workload scheduling and emissions optimization.
+   - **Features**: Web API and CLI library that assists software workloads in running when and where the electric grid produces lower emissions (marginal carbon intensity). Supports WattTime and Electricity Maps data to minimize emissions that require offsetting.
+   - **Tech Stack**: C#, Python • **License**: MIT
+   - **Best For**: Distributed systems engineers looking to build climate-responsive applications.
 
-- **[CarbonCreditBuy](https://zenodo.org/records/13876575)**
+5. ### 🍃 [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) [![Stars](https://img.shields.io/github/stars/thegreenwebfoundation/co2.js?style=social&color=white)](https://github.com/thegreenwebfoundation/co2.js/stargazers)
+   - **Focus**: Web traffic and digital transfer carbon estimations.
+   - **Features**: JavaScript library for calculating the carbon emissions of digital assets, bytes transferred across networks, and web pages using the OneByte and Sustainable Web Design (SWD) models. Perfect for computing client-facing micro-offset requirements at web checkout.
+   - **Tech Stack**: JavaScript / TypeScript • **License**: Apache-2.0 / MIT
+   - **Best For**: Frontend engineers and e-commerce web applications estimating visitor carbon impact.
 
-  **Open, self-hostable geospatial platform for estimating tree-based carbon removal** (license per Zenodo record) — **an explainable estimation tool, not a credit issuance or offset procurement system**. **Features**: Land marking via map (boundary, freehand, rectangle, circle, coordinates, GeoJSON/KML/CSV/LAS/LAZ import); deterministic engines combining ESA WorldCover and Copernicus Sentinel-2 data with IPCC 2006 Tier 1 (Tier 2 with measured diameter) gain-loss estimates; low-central-high ranges with confidence grades and provenance; policy engine screening for India, US, and EU; nine deterministic agents for explanations with an optional LLM for rephrasing only . **Tech stack**: Geospatial (per documentation). **Deploy**: Self-hostable. **Trade-off**: **Scenario estimation only**—outputs are explicitly **not certified carbon credits** (`certified: false`). Demo uses synthetic data; field measurement agreement not yet evaluated. **Best for**: farmers, landowners, and researchers wanting to estimate potential tree-based carbon before pursuing certification.
+6. ### 🔬 [GreenDelta/olca-app](https://github.com/GreenDelta/olca-app) [![Stars](https://img.shields.io/github/stars/GreenDelta/olca-app?style=social&color=white)](https://github.com/GreenDelta/olca-app/stargazers)
+   - **Focus**: Open-source Life Cycle Assessment (LCA) and environmental modeling.
+   - **Features**: The core desktop application behind openLCA, the world's most widely adopted open-source LCA software. Enables comprehensive supply chain carbon modeling, cradle-to-grave greenhouse gas impact evaluation, and standards-compliant carbon accounting.
+   - **Tech Stack**: Java, Eclipse RCP • **License**: MPL-2.0
+   - **Best For**: Sustainability professionals and LCA researchers performing industrial-grade emissions calculations prior to carbon offsetting.
 
+7. ### ⛓️ [hyperledger-labs/blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) [![Stars](https://img.shields.io/github/stars/hyperledger-labs/blockchain-carbon-accounting?style=social&color=white)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/stargazers)
+   - **Focus**: Enterprise blockchain emissions ledger and carbon trading smart contracts.
+   - **Features**: Incubated under the Linux Foundation's Hyperledger Climate Action and Accounting SIG. Implements decentralized identity, tokenized carbon credits, automated Scope 1/2/3 accounting, and transparent audit trails for carbon offsets and emissions allowances.
+   - **Tech Stack**: TypeScript, Solidity, Hyperledger Fabric • **License**: Apache-2.0
+   - **Best For**: Enterprise consortia building auditable, tamper-proof corporate carbon accounting and offset settlement networks.
 
+8. ### 🛡️ [carboniferio/carbonifer](https://github.com/carboniferio/carbonifer) [![Stars](https://img.shields.io/github/stars/carboniferio/carbonifer?style=social&color=white)](https://github.com/carboniferio/carbonifer/stargazers)
+   - **Focus**: Infrastructure-as-Code (Terraform) carbon emissions scanner.
+   - **Features**: CLI tool that parses Terraform execution plans to estimate the prospective carbon footprint of cloud resources before deployment. Integrates seamlessly into CI/CD pipelines to enforce carbon budgets and identify offset liabilities.
+   - **Tech Stack**: Go • **License**: Apache-2.0
+   - **Best For**: DevOps teams aiming to shift carbon management left into infrastructure pull requests.
 
-- **[calcium](https://codeberg.org/unkaktus/calcium)**
+9. ### 🌿 [KlimaDAO/klimadao](https://github.com/KlimaDAO/klimadao) [![Stars](https://img.shields.io/github/stars/KlimaDAO/klimadao?style=social&color=white)](https://github.com/KlimaDAO/klimadao/stargazers)
+   - **Focus**: Decentralized digital carbon marketplace and Web3 offset protocol.
+   - **Features**: Complete monorepo for the KlimaDAO dApp and Carbonmark integration. Allows automated purchasing, bridging, and retiring of certified on-chain carbon credits (BCT, NCT, MCO2, UBO) with verifiable blockchain retirement certificates.
+   - **Tech Stack**: TypeScript, Next.js, Web3.js • **License**: MIT
+   - **Best For**: Web3 developers, treasuries, and decentralized autonomous organizations (DAOs) seeking programmatic, on-chain carbon offsetting.
 
-  **Command wrapper for tracking computing carbon footprint** (license per Codeberg repo) — **a narrow, developer-focused tool for software emissions estimation**. **Features**: Wraps any command with a project tag; logs CPU time to CSV; generates JSON reports by region using ISO 3-letter country codes; carbon intensity data from Ember, Energy Institute, and Our World in Data; TDP lookup for CPU models . **Tech stack**: Go. **Deploy**: CLI binary or `go install`. **Trade-off**: **Estimates software operational footprint**—does not purchase, retire, or manage offsets. No registry integration. **Best for**: developers wanting to measure the carbon footprint of compute workloads for reporting or optimization.
+10. ### 📊 [Boavizta/boaviztapi](https://github.com/Boavizta/boaviztapi) [![Stars](https://img.shields.io/github/stars/Boavizta/boaviztapi?style=social&color=white)](https://github.com/Boavizta/boaviztapi/stargazers)
+    - **Focus**: Open reference data API for IT equipment environmental footprinting.
+    - **Features**: RESTful API delivering open data on manufacturing and operational carbon emissions for cloud instances, IoT devices, user terminals, and servers. Powers accurate baseline data needed to calibrate enterprise offset procurement.
+    - **Tech Stack**: Python, FastAPI • **License**: AGPL-3.0
+    - **Best For**: Sustainability developers requiring open, empirically validated hardware carbon coefficients.
 
+11. ### 🏛️ [undp/undp-national-carbon-registry](https://github.com/undp/undp-national-carbon-registry) [![Stars](https://img.shields.io/github/stars/undp/undp-national-carbon-registry?style=social&color=white)](https://github.com/undp/undp-national-carbon-registry/stargazers)
+    - **Focus**: Sovereign carbon credit issuance and Article 6 registry platform.
+    - **Features**: An officially recognized Digital Public Good (DPG) backed by the United Nations Development Programme (UNDP). Provides full lifecycle sovereign carbon credit tracking, issuance, transfer, and retirement under Article 6 of the Paris Agreement. Implemented in countries like Namibia, Ghana, and Sri Lanka.
+    - **Tech Stack**: TypeScript, Node.js, PostgreSQL • **License**: AGPL-3.0
+    - **Best For**: Governments, sovereign bodies, and public sector institutions running national compliance carbon markets.
 
+12. ### 🔏 [ToucanProtocol/contracts](https://github.com/ToucanProtocol/contracts) [![Stars](https://img.shields.io/github/stars/ToucanProtocol/contracts?style=social&color=white)](https://github.com/ToucanProtocol/contracts/stargazers)
+    - **Focus**: Tokenized carbon credit pools and programmable retirement smart contracts.
+    - **Features**: Core smart contracts powering Toucan Protocol's Carbon Bridge and Carbon Pools (such as Base Carbon Tonne - BCT, and Nature Carbon Tonne - NCT). Enables bridging of legacy registry credits (Verra VCS) onto EVM blockchains and burning tokens for cryptographic proof of retirement.
+    - **Tech Stack**: Solidity, Foundry • **License**: GPL-3.0
+    - **Best For**: Smart contract engineers building decentralized finance (DeFi) climate applications and automated carbon-offset dApps.
 
-- **[SCOOP Carbon Accounting](https://github.com/scoop-carbon/scoop)**
+13. ### 🗄️ [carbonplan/cdr-database](https://github.com/carbonplan/cdr-database) [![Stars](https://img.shields.io/github/stars/carbonplan/cdr-database?style=social&color=white)](https://github.com/carbonplan/cdr-database/stargazers)
+    - **Focus**: Carbon Dioxide Removal (CDR) project catalog and verification data.
+    - **Features**: Open-source dataset and web interface evaluating permanent carbon removal projects across direct air capture, biomass carbon removal, mineralization, and ocean CDR against rigorous scientific criteria.
+    - **Tech Stack**: JavaScript, React, Python • **License**: MIT
+    - **Best For**: Climate scientists and institutional buyers evaluating permanent CDR durability and additionality.
 
-  **Open-source carbon accounting with metrology rigor** (license per repo) — **an IEEE-affiliated project** supporting standards P7802 and P3469. **Features**: Applies metrology discipline with financial reporting frameworks to carbon accounting; translating scientific principles into practical projects . **Tech stack**: Per repository. **Deploy**: Self-hosted. **Trade-off**: **Carbon accounting infrastructure**, not offset procurement—focused on measurement and reporting, not credit purchasing or retirement. **Best for**: organizations wanting rigorous, standards-aligned carbon accounting.
+14. ### 🌲 [carbonplan/forest-offsets](https://github.com/carbonplan/forest-offsets) [![Stars](https://img.shields.io/github/stars/carbonplan/forest-offsets?style=social&color=white)](https://github.com/carbonplan/forest-offsets/stargazers)
+    - **Focus**: Retrospective analysis of California compliance forest offset protocols.
+    - **Features**: Reproducible research scripts and geospatial analysis evaluating the ecological additionality, systematic over-crediting, and permanence risk of improved forest management (IFM) offset projects.
+    - **Tech Stack**: Python, Jupyter Notebooks • **License**: MIT
+    - **Best For**: Policy researchers and risk analysts auditing nature-based carbon offsets.
 
-
-
-- **[Open Offset / Carbon Offset Tools](https://github.com/search?q=carbon+offset+open+source)**
-
-  **Note**: A comprehensive search of GitHub for actively maintained open-source carbon offset **management** platforms (with credit purchasing, retirement, and registry integration) yielded **no mature projects**. The projects listed above are the closest matches: registry infrastructure (National Carbon Credit Registry), estimation (CarbonCreditBuy, calcium), and accounting (SCOOP). **Organizations needing to purchase and retire credits will require commercial platforms like Patch or CarbonClick.**
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **OpenLCA** — Open-source life cycle assessment software (MPL-2.0). Calculates environmental footprints including carbon; not an offset management tool. **Best for**: organizations needing LCA for emissions measurement before offsetting.
-
-- **Carbon Footprint Calculator (various)** — Multiple open-source calculators exist on GitHub (typically MIT or GPL). **Note**: Individual/event emissions estimation only; no offset purchasing or retirement . **Best for**: educational or personal use.
-
-
-
-**Frameworks for building custom systems**: Combine **National Carbon Credit Registry** for sovereign credit issuance infrastructure (if applicable) with **CarbonCreditBuy** for project-level estimation, **SCOOP** for accounting rigor, and **calcium** for software emissions tracking—creating a carbon measurement and infrastructure stack. **None of these provide credit purchasing or retirement**—that layer requires commercial integration or building against registry APIs.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Carbon offset platforms and projects must align with recognized standards (Gold Standard, Verra/VCS, ICVCM Core Carbon Principles, CORSIA) and avoid greenwashing claims. Carbon credits are not a substitute for emissions reduction.
-
-- **The "offset procurement" vs. "registry infrastructure" vs. "estimation/accounting" distinction is critical.** **Shopify Planet, Patch, CarbonClick, Climeworks, South Pole, Tradewater, and Cloverly** are **offset procurement platforms**—they sell or facilitate purchase of verified credits. **National Carbon Credit Registry** is **registry infrastructure**—it issues and tracks credits for governments. **CarbonCreditBuy, calcium, and SCOOP** are **estimation and accounting tools**—they measure emissions or potential removal but do not sell credits. **No open-source project provides turnkey corporate offset procurement.**
-
-- **Open-source carbon offset management is essentially nonexistent as a corporate product.** The National Carbon Credit Registry is the most significant project, but it is **government infrastructure for sovereign carbon accounting**, not a corporate offset purchasing platform . CarbonCreditBuy explicitly disclaims certification (`certified: false`) and uses synthetic demo data . **Organizations wanting to buy and retire credits for corporate net-zero targets will need commercial platforms.**
-
-- **Carbon removal vs. avoidance matters.** Shopify Planet funds **durable carbon removal** (DAC, biochar, enhanced weathering) . Tradewater funds **avoidance** (refrigerant destruction, methane capture) . Climeworks provides **engineered removal** (DAC) . **These are not interchangeable**—removal credits are generally more expensive and durable; avoidance credits are cheaper but do not remove existing atmospheric CO₂. **Understand what you are buying.**
-
-- **Pachama's acquisition by Carbon Direct** consolidates the MRV layer into a broader carbon management suite . **The standalone Pachama platform may not remain available as before**—verify current offerings.
-
-- **Pricing opacity is universal across commercial offset providers.** Shopify Planet has transparent per-order fees; CarbonClick publishes tiered pricing; Ecologi and Wren have consumer subscription pricing. Pachama, Patch, Climeworks, South Pole, Cloverly, and Tradewater require sales contact. **Validate with direct vendor conversations against your credit volume and quality requirements.**
-
-- **Carbon credit quality varies dramatically.** Look for ICVCM Core Carbon Principles labels (as Tradewater claims ), Gold Standard or Verra certification (as Ecologi and South Pole reference ), and transparent MRV (as Pachama provided ). **Cheap credits from questionable projects do not advance climate goals and create reputational risk.**
-
-- Self-hosted open-source solutions require proper infrastructure and ongoing maintenance. **Carbon accounting data and credit transactions are increasingly subject to regulatory scrutiny**—ensure your systems meet emerging disclosure requirements (CSRD, ISSB, SEC climate rules) before relying on them for compliance reporting.
-
-
+15. ### 🧯 [ToucanProtocol/OffsetHelper](https://github.com/ToucanProtocol/OffsetHelper) [![Stars](https://img.shields.io/github/stars/ToucanProtocol/OffsetHelper?style=social&color=white)](https://github.com/ToucanProtocol/OffsetHelper/stargazers)
+    - **Focus**: Single-transaction on-chain carbon offsetting smart contract.
+    - **Features**: Utility smart contract that abstracts token swapping, liquidity routing, and credit burning. Allows any user or contract to pass standard crypto tokens (such as USDC, WETH, or MATIC) and automatically swap, redeem, and retire carbon credits in a single atomic transaction.
+    - **Tech Stack**: Solidity • **License**: GPL-3.0
+    - **Best For**: Web3 game developers, NFT mints, and payment gateways looking to provide one-click carbon neutrality.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcome! If you know of an awesome SaaS platform, open-source tool, or research repository focused on carbon offsets and digital MRV:
 
-**Made for developers, sustainability teams, and organizations building transparent carbon offset solutions.**
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-carbon-platform`).
+3. 📝 **Add your entry** following the existing format (include name, URL, accurate pricing/tier details or star badges, and a crisp description).
+4. 🚀 **Commit and push** your changes.
+5. 📬 **Submit a Pull Request** with a brief summary of the project.
 
-Let's make Carbon Offset Management more open, data-driven, and climate-integrity-focused.
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository helped you understand the carbon offset ecosystem, build sustainable software, or choose the right carbon procurement tools:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** it with your sustainability, DevOps, and climate tech networks.
+- ☕ **Support the maintainer**: Buy a coffee or sponsor development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📜 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Carbon-Offset-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Carbon-Offset-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is an **independently curated community list** for informational and research purposes; it does not constitute financial, investment, or legal compliance advice.
+- Carbon offset platforms and credits must comply with recognized international standards (Verra VCS, Gold Standard, American Carbon Registry, ICVCM Core Carbon Principles, CORSIA). Offsets should complement aggressive operational emissions reductions, not replace them.
+- **Corporate Offsetting vs. National Registries**: Commercial SaaS platforms (Patch, Shopify Planet, CarbonClick) facilitate corporate offset purchases and retirement. Open-source registries like UNDP National Carbon Registry provide sovereign accounting infrastructure under Article 6 for national climate commitments.
+- Always perform independent due diligence on project additionality, vintage, verification methodologies, and permanence before executing carbon credit purchases.
+
+---
+
+<p align="center">
+  <b>Built with 💚 for developers, sustainability leaders, and open climate tech pioneers.</b>
+</p>
